@@ -1,0 +1,15 @@
+.containerSlide {
+    width: 750px;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.containerSlide img {
+    height: 500px;
+    width: 750px;
+
+}
+img{
+    width:100%;
+    height: auto;
+}
